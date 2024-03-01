@@ -5,6 +5,7 @@
     <key>ru</key>
     <value>Цены</value>
   </synonym>
+  <comment>Исправили Ошибку-001</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ВидыЦен</content>
