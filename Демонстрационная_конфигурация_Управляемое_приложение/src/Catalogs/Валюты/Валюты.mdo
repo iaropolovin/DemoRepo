@@ -10,7 +10,7 @@
   <name>Валюты</name>
   <synonym>
     <key>ru</key>
-    <value>Валюты</value>
+    <value>Валюты1</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Валюты.StandardAttribute.Description</inputByString>
