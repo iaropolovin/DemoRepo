@@ -300,4 +300,5 @@
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ВидыХарактеристик</chartsOfCharacteristicTypes>
+  <bots>Bot.БотИзначальный</bots>
 </mdclass:Configuration>
